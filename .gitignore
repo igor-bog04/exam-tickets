@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Runtime data
+journal.xlsx
+results.xlsx
+~$*.xlsx
+.journal-*.tmp
