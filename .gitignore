@@ -8,3 +8,5 @@ journal.xlsx
 results.xlsx
 ~$*.xlsx
 .journal-*.tmp
+.results-*.tmp
+*.log
